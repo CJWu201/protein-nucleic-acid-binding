@@ -1,0 +1,1155 @@
+<html><head><title>pprint:: prediction result</title></head> <body><br><br><h2><center>Prediction of RNA-interacting residues of submitted proteins</center></h2><table align="center"><tbody><tr><td bgcolor="#D3D3D3" align="center"><font color="RED"><b>Red: Interacting residues</b></font><font color="blue">&nbsp;&nbsp;&nbsp;&nbsp;<b>Blue: Non-interacting residues</b></font><br><br></td></tr><tr><td><font color="blue">M</font><font color="blue">E</font><font color="blue">I</font><font color="blue">D</font><font color="blue">K</font><font color="blue">E</font><font color="blue">L</font><font color="blue">A</font><font color="blue">P</font><font color="blue">Q</font><font color="blue">D</font><font color="blue">R</font><font color="blue">T</font><font color="blue">V</font><font color="blue">T</font><font color="blue">V</font><font color="blue">A</font><font color="blue">T</font><font color="blue">V</font><font color="blue">L</font><font color="blue">P</font><font color="blue">T</font><font color="blue">V</font><font color="blue">P</font><font color="blue">G</font><font color="blue">P</font><font color="blue">S</font><font color="blue">P</font><font color="blue">F</font><font color="blue">T</font><font color="blue">I</font><font color="blue">K</font><font color="blue">Q</font><font color="blue">P</font><font color="blue">F</font><font color="blue">Q</font><font color="blue">S</font><font color="blue">E</font><font color="blue">V</font><font color="blue">L</font><font color="blue">F</font><font color="blue">A</font><font color="blue">G</font><font color="blue">T</font><font color="blue">K</font><font color="blue">D</font><font color="blue">A</font><font color="blue">E</font><font color="blue">A</font><font color="blue">S</font><font color="blue">L</font><font color="blue">T</font><font color="blue">I</font><font color="blue">A</font><font color="blue">N</font><font color="blue">I</font><font color="blue">D</font><font color="blue">S</font><font color="blue">V</font><font color="blue">S</font></td></tr><tr><td><font color="blue">T</font><font color="blue">L</font><font color="blue">T</font><font color="blue">T</font><font color="blue">F</font><font color="blue">Y</font><font color="blue">R</font><font color="blue">H</font><font color="blue">A</font><font color="blue">S</font><font color="blue">L</font><font color="blue">E</font><font color="blue">S</font><font color="blue">L</font><font color="blue">W</font><font color="blue">V</font><font color="blue">T</font><font color="blue">I</font><font color="blue">H</font><font color="blue">P</font><font color="blue">T</font><font color="blue">L</font><font color="blue">Q</font><font color="blue">A</font><font color="blue">P</font><font color="blue">A</font><font color="blue">F</font><font color="blue">P</font><font color="blue">T</font><font color="blue">T</font><font color="blue">V</font><font color="blue">G</font><font color="blue">V</font><font color="blue">C</font><font color="blue">W</font><font color="blue">V</font><font color="blue">P</font><font color="blue">A</font><font color="blue">Q</font><font color="blue">S</font><font color="red">P</font><font color="blue">V</font><font color="blue">T</font><font color="blue">P</font><font color="blue">T</font><font color="blue">Q</font><font color="blue">I</font><font color="blue">T</font><font color="blue">K</font><font color="red">T</font><font color="red">Y</font><font color="red">G</font><font color="red">G</font><font color="red">Q</font><font color="red">I</font><font color="red">F</font><font color="blue">C</font><font color="blue">I</font><font color="blue">G</font><font color="red">G</font></td></tr><tr><td><font color="blue">A</font><font color="blue">I</font><font color="blue">Q</font><font color="blue">T</font><font color="blue">L</font><font color="blue">S</font><font color="blue">P</font><font color="blue">L</font><font color="blue">I</font><font color="blue">V</font><font color="blue">K</font><font color="blue">C</font><font color="blue">P</font><font color="blue">L</font><font color="red">E</font><font color="red">M</font><font color="blue">M</font><font color="blue">Q</font><font color="red">P</font><font color="blue">R</font><font color="blue">V</font><font color="blue">K</font><font color="blue">D</font><font color="blue">S</font><font color="blue">I</font><font color="blue">Q</font><font color="blue">Y</font><font color="blue">L</font><font color="blue">D</font><font color="blue">S</font><font color="blue">P</font><font color="blue">K</font><font color="blue">L</font><font color="blue">L</font><font color="blue">I</font><font color="blue">S</font><font color="blue">I</font><font color="blue">T</font><font color="blue">A</font><font color="blue">Q</font><font color="blue">P</font><font color="blue">T</font><font color="blue">A</font><font color="blue">P</font><font color="blue">P</font><font color="blue">A</font><font color="blue">S</font><font color="blue">T</font><font color="blue">C</font><font color="blue">I</font><font color="blue">I</font><font color="blue">T</font><font color="blue">V</font><font color="blue">S</font><font color="blue">G</font><font color="blue">T</font><font color="blue">L</font><font color="blue">S</font><font color="blue">M</font><font color="blue">H</font></td></tr><tr><td><font color="blue">S</font><font color="blue">P</font><font color="blue">L</font><font color="blue">I</font><font color="blue">T</font><font color="blue">D</font><font color="blue">T</font><font color="blue">S</font><font color="blue">T</font></td></tr></tbody></table>
+
+<br><br><br><br><br><br><br>
+
+<table align="center">
+
+<caption><em>Residue wise detail prediction</em></caption>
+
+<tbody><tr bgcolor="#8B6969"><td align="LEFT"><font size="+2">Amino Acid</font></td>
+
+<td align="LEFT"><font size="+2">SVM value</font></td>
+
+<td align="LEFT"><font size="+2">Prediction</font></td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">M</td>
+
+<td align="center" bgcolor="#D3D3D3">-0.42236542</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">E</td>
+
+<td align="center" bgcolor="#D3D3D3">-0.9362341</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">I</td>
+
+<td align="center" bgcolor="#D3D3D3">-0.51813855</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">D</td>
+
+<td align="center" bgcolor="#D3D3D3">-0.68952999</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">K</td>
+
+<td align="center" bgcolor="#D3D3D3">-0.85639779</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">E</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.2320353</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">L</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.2417992</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">A</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.4666995</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">P</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.354914</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">Q</td>
+
+<td align="center" bgcolor="#D3D3D3">-0.85701344</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">D</td>
+
+<td align="center" bgcolor="#D3D3D3">-0.5525915</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">R</td>
+
+<td align="center" bgcolor="#D3D3D3">-0.60974465</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">T</td>
+
+<td align="center" bgcolor="#D3D3D3">-0.76969664</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">V</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.4703963</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">T</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.0477316</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">V</td>
+
+<td align="center" bgcolor="#D3D3D3">-0.87140682</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">A</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.3009193</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">T</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.4910169</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">V</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.4591384</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">L</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.0097713</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">P</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.4942038</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">T</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.7171368</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">V</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.2162947</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">P</td>
+
+<td align="center" bgcolor="#D3D3D3">-0.91011402</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">G</td>
+
+<td align="center" bgcolor="#D3D3D3">-0.27180761</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">P</td>
+
+<td align="center" bgcolor="#D3D3D3">-0.46349806</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">S</td>
+
+<td align="center" bgcolor="#D3D3D3">-0.82589687</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">P</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.4605132</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">F</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.2456481</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">T</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.3127277</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">I</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.9523128</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">K</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.8972881</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">Q</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.7140652</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">P</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.3062793</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">F</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.6467201</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">Q</td>
+
+<td align="center" bgcolor="#D3D3D3">-0.5123272</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">S</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.4515235</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">E</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.4849741</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">V</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.5903428</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">L</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.322513</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">F</td>
+
+<td align="center" bgcolor="#D3D3D3">-0.89291039</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">A</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.0824012</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">G</td>
+
+<td align="center" bgcolor="#D3D3D3">-0.79159257</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">T</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.5246208</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">K</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.1345629</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">D</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.6353265</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">A</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.5234662</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">E</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.2305138</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">A</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.8716789</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">S</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.4082196</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">L</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.6830771</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">T</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.1594562</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">I</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.5897266</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">A</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.7658649</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">N</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.4940851</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">I</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.5341393</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">D</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.8370943</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">S</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.8763484</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">V</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.6609974</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">S</td>
+
+<td align="center" bgcolor="#D3D3D3">-2.0089005</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">T</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.4831784</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">L</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.4573805</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">T</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.4772104</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">T</td>
+
+<td align="center" bgcolor="#D3D3D3">-0.79408437</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">F</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.2878895</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">Y</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.3226318</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">R</td>
+
+<td align="center" bgcolor="#D3D3D3">-0.54523208</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">H</td>
+
+<td align="center" bgcolor="#D3D3D3">-0.57631171</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">A</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.6157398</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">S</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.2330565</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">L</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.4665945</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">E</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.8706018</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">S</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.4604691</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">L</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.6969524</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">W</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.0827208</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">V</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.5004686</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">T</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.1834396</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">I</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.7361667</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">H</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.5333304</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">P</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.657802</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">T</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.2946975</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">L</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.6612255</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">Q</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.3106029</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">A</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.4342539</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">P</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.2777494</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">A</td>
+
+<td align="center" bgcolor="#D3D3D3">-0.95702469</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">F</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.0144015</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">P</td>
+
+<td align="center" bgcolor="#D3D3D3">-0.30439293</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">T</td>
+
+<td align="center" bgcolor="#D3D3D3">-0.71579856</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">T</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.2157451</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">V</td>
+
+<td align="center" bgcolor="#D3D3D3">-0.88512772</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">G</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.2782115</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">V</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.4356389</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">C</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.8774686</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">W</td>
+
+<td align="center" bgcolor="#D3D3D3">-0.7613808</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">V</td>
+
+<td align="center" bgcolor="#D3D3D3">-0.84161401</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">P</td>
+
+<td align="center" bgcolor="#D3D3D3">-0.60255453</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">A</td>
+
+<td align="center" bgcolor="#D3D3D3">-0.83489584</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">Q</td>
+
+<td align="center" bgcolor="#D3D3D3">-0.23776716</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">S</td>
+
+<td align="center" bgcolor="#D3D3D3">-0.93603491</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">P</td>
+
+<td align="center" bgcolor="#D3D3D3">-0.13437399</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">V</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.3412951</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">T</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.5049847</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">P</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.0035961</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">T</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.400515</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">Q</td>
+
+<td align="center" bgcolor="#D3D3D3">-0.96609466</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">I</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.371734</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">T</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.3886103</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">K</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.345218</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">T</td>
+
+<td align="center" bgcolor="#D3D3D3">-0.14588342</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">Y</td>
+
+<td align="center" bgcolor="#D3D3D3">0.15631925</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">G</td>
+
+<td align="center" bgcolor="#D3D3D3">0.15374691</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">G</td>
+
+<td align="center" bgcolor="#D3D3D3">-0.066661319</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">Q</td>
+
+<td align="center" bgcolor="#D3D3D3">0.24120615</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">I</td>
+
+<td align="center" bgcolor="#D3D3D3">0.32484718</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">F</td>
+
+<td align="center" bgcolor="#D3D3D3">0.95750373</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">C</td>
+
+<td align="center" bgcolor="#D3D3D3">-0.26535184</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">I</td>
+
+<td align="center" bgcolor="#D3D3D3">-0.42907354</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">G</td>
+
+<td align="center" bgcolor="#D3D3D3">-0.48004201</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">G</td>
+
+<td align="center" bgcolor="#D3D3D3">-0.16196872</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">A</td>
+
+<td align="center" bgcolor="#D3D3D3">-0.95253819</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">I</td>
+
+<td align="center" bgcolor="#D3D3D3">-0.9588299</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">Q</td>
+
+<td align="center" bgcolor="#D3D3D3">-0.77648382</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">T</td>
+
+<td align="center" bgcolor="#D3D3D3">-0.50613021</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">L</td>
+
+<td align="center" bgcolor="#D3D3D3">-0.76529273</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">S</td>
+
+<td align="center" bgcolor="#D3D3D3">-0.61827283</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">P</td>
+
+<td align="center" bgcolor="#D3D3D3">-0.92450084</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">L</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.9358219</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">I</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.0887374</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">V</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.2421056</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">K</td>
+
+<td align="center" bgcolor="#D3D3D3">-0.62320576</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">C</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.1913029</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">P</td>
+
+<td align="center" bgcolor="#D3D3D3">-0.32293539</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">L</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.2547833</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">E</td>
+
+<td align="center" bgcolor="#D3D3D3">0.059000263</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">M</td>
+
+<td align="center" bgcolor="#D3D3D3">-0.028271839</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">M</td>
+
+<td align="center" bgcolor="#D3D3D3">-0.84799438</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">Q</td>
+
+<td align="center" bgcolor="#D3D3D3">-0.70769323</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">P</td>
+
+<td align="center" bgcolor="#D3D3D3">-0.07519325</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">R</td>
+
+<td align="center" bgcolor="#D3D3D3">-0.63412653</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">V</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.676908</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">K</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.4265798</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">D</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.2378769</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">S</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.2958579</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">I</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.0081309</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">Q</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.2573003</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">Y</td>
+
+<td align="center" bgcolor="#D3D3D3">-0.86854802</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">L</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.0510862</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">D</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.2431726</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">S</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.2148699</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">P</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.8064817</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">K</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.0352104</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">L</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.8220339</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">L</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.3475065</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">I</td>
+
+<td align="center" bgcolor="#D3D3D3">-2.0416933</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">S</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.3066327</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">I</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.163802</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">T</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.5759303</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">A</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.4416414</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">Q</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.2820966</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">P</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.5982635</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">T</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.5896813</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">A</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.561374</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">P</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.4343019</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">P</td>
+
+<td align="center" bgcolor="#D3D3D3">-0.9679994</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">A</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.1733775</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">S</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.2457206</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">T</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.2849826</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">C</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.4888764</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">I</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.093338</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">I</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.2304256</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">T</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.1924219</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">V</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.352897</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">S</td>
+
+<td align="center" bgcolor="#D3D3D3">-0.6438447</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">G</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.2505585</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">T</td>
+
+<td align="center" bgcolor="#D3D3D3">-0.70074576</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">L</td>
+
+<td align="center" bgcolor="#D3D3D3">-0.49965571</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">S</td>
+
+<td align="center" bgcolor="#D3D3D3">-0.47402391</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">M</td>
+
+<td align="center" bgcolor="#D3D3D3">-0.57346952</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">H</td>
+
+<td align="center" bgcolor="#D3D3D3">-0.7201283</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">S</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.0401924</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">P</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.1910794</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">L</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.2007932</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">I</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.1615036</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">T</td>
+
+<td align="center" bgcolor="#D3D3D3">-0.71158413</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">D</td>
+
+<td align="center" bgcolor="#D3D3D3">-0.82460711</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">T</td>
+
+<td align="center" bgcolor="#D3D3D3">-1.0390953</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">S</td>
+
+<td align="center" bgcolor="#D3D3D3">-0.49489879</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td align="center" bgcolor="#C0C0C0">T</td>
+
+<td align="center" bgcolor="#D3D3D3">-0.44167879</td>
+
+<td align="center" bgcolor="#9FB6CD">&nbsp;&nbsp;&nbsp;Non-Interacting&nbsp;&nbsp;&nbsp;</td></tr>
+
+</tbody></table>
+
+<br><br><br><br><br><br><br>
+
+
+
+</body></html>

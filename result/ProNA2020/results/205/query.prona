@@ -1,0 +1,100 @@
+#Protein level prediction
+#RI = Reliability index (score) for positive prediciton (-100~+100); Pred = Prediction (0,1)
+#	Protein_RI	Protein_Pred	DNA_RI	DNA_Pred	RNA_RI	RNA_Pred
+Protein_level	68	1	-100	0	74	1
+
+
+
+
+#Residue level prediction
+#RI = Reliability index (score) for positive prediciton (-100~+100); Pred = Prediction (0,1)
+#	AA	Protein_RI	Protein_Pred	DNA_RI	DNA_Pred	RNA_RI	RNA_Pred
+Res_1	M	-77	0	0	0	48	1
+Res_2	K	-59	0	0	0	56	1
+Res_3	P	-35	0	0	0	61	1
+Res_4	M	-1	0	0	0	64	1
+Res_5	Y	21	1	0	0	67	1
+Res_6	R	36	1	0	0	78	1
+Res_7	S	39	1	0	0	84	1
+Res_8	R	38	1	0	0	88	1
+Res_9	S	23	1	0	0	89	1
+Res_10	W	25	1	0	0	91	1
+Res_11	R	21	1	0	0	89	1
+Res_12	R	19	1	0	0	89	1
+Res_13	K	5	1	0	0	87	1
+Res_14	Y	19	1	0	0	86	1
+Res_15	V	20	1	0	0	86	1
+Res_16	R	8	1	0	0	83	1
+Res_17	T	11	1	0	0	83	1
+Res_18	P	26	1	0	0	79	1
+Res_19	G	26	1	0	0	76	1
+Res_20	G	26	1	0	0	71	1
+Res_21	R	38	1	0	0	68	1
+Res_22	V	42	1	0	0	69	1
+Res_23	V	43	1	0	0	69	1
+Res_24	I	40	1	0	0	66	1
+Res_25	H	33	1	0	0	67	1
+Res_26	F	40	1	0	0	65	1
+Res_27	E	41	1	0	0	70	1
+Res_28	R	32	1	0	0	72	1
+Res_29	K	21	1	0	0	77	1
+Res_30	K	21	1	0	0	77	1
+Res_31	P	18	1	0	0	78	1
+Res_32	K	18	1	0	0	78	1
+Res_33	I	7	1	0	0	77	1
+Res_34	A	16	1	0	0	76	1
+Res_35	H	9	1	0	0	74	1
+Res_36	C	17	1	0	0	71	1
+Res_37	A	11	1	0	0	69	1
+Res_38	M	25	1	0	0	63	1
+Res_39	C	17	1	0	0	59	1
+Res_40	G	29	1	0	0	58	1
+Res_41	R	27	1	0	0	55	1
+Res_42	P	34	1	0	0	51	1
+Res_43	L	24	1	0	0	46	1
+Res_44	N	30	1	0	0	47	1
+Res_45	G	38	1	0	0	39	1
+Res_46	I	39	1	0	0	39	1
+Res_47	P	39	1	0	0	40	1
+Res_48	R	50	1	0	0	36	1
+Res_49	G	53	1	0	0	35	1
+Res_50	R	49	1	0	0	30	1
+Res_51	P	34	1	0	0	38	1
+Res_52	V	35	1	0	0	45	1
+Res_53	E	38	1	0	0	43	1
+Res_54	M	40	1	0	0	50	1
+Res_55	R	37	1	0	0	51	1
+Res_56	K	41	1	0	0	56	1
+Res_57	L	34	1	0	0	61	1
+Res_58	P	29	1	0	0	63	1
+Res_59	K	32	1	0	0	69	1
+Res_60	T	28	1	0	0	68	1
+Res_61	K	39	1	0	0	64	1
+Res_62	K	37	1	0	0	69	1
+Res_63	R	43	1	0	0	70	1
+Res_64	P	49	1	0	0	69	1
+Res_65	E	63	1	0	0	66	1
+Res_66	R	67	1	0	0	68	1
+Res_67	P	81	1	0	0	68	1
+Res_68	M	85	1	0	0	69	1
+Res_69	P	84	1	0	0	68	1
+Res_70	H	80	1	0	0	72	1
+Res_71	L	76	1	0	0	71	1
+Res_72	C	70	1	0	0	64	1
+Res_73	P	68	1	0	0	62	1
+Res_74	R	64	1	0	0	57	1
+Res_75	C	66	1	0	0	48	1
+Res_76	M	62	1	0	0	34	1
+Res_77	R	62	1	0	0	23	1
+Res_78	K	54	1	0	0	11	1
+Res_79	V	56	1	0	0	-1	0
+Res_80	M	40	1	0	0	-29	0
+Res_81	K	39	1	0	0	-40	0
+Res_82	E	30	1	0	0	-67	0
+Res_83	Q	32	1	0	0	-81	0
+Res_84	I	19	1	0	0	-85	0
+Res_85	R	22	1	0	0	-86	0
+Res_86	A	19	1	0	0	-90	0
+Res_87	Q	9	1	0	0	-88	0
+Res_88	L	3	1	0	0	-96	0
+Res_89	S	4	1	0	0	-100	0

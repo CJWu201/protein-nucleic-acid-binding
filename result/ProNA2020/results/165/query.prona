@@ -1,0 +1,75 @@
+#Protein level prediction
+#RI = Reliability index (score) for positive prediciton (-100~+100); Pred = Prediction (0,1)
+#	Protein_RI	Protein_Pred	DNA_RI	DNA_Pred	RNA_RI	RNA_Pred
+Protein_level	99	1	-100	0	60	1
+
+
+
+
+#Residue level prediction
+#RI = Reliability index (score) for positive prediciton (-100~+100); Pred = Prediction (0,1)
+#	AA	Protein_RI	Protein_Pred	DNA_RI	DNA_Pred	RNA_RI	RNA_Pred
+Res_1	M	29	1	0	0	-19	0
+Res_2	L	34	1	0	0	3	1
+Res_3	I	26	1	0	0	13	1
+Res_4	L	42	1	0	0	13	1
+Res_5	T	29	1	0	0	18	1
+Res_6	R	26	1	0	0	19	1
+Res_7	K	18	1	0	0	25	1
+Res_8	V	12	1	0	0	14	1
+Res_9	G	10	1	0	0	14	1
+Res_10	E	8	1	0	0	11	1
+Res_11	S	3	1	0	0	1	1
+Res_12	I	0	0	0	0	-24	0
+Res_13	N	12	1	0	0	-35	0
+Res_14	I	12	1	0	0	-59	0
+Res_15	G	14	1	0	0	-62	0
+Res_16	D	10	1	0	0	-79	0
+Res_17	D	1	1	0	0	-81	0
+Res_18	I	-23	0	0	0	-85	0
+Res_19	T	-19	0	0	0	-85	0
+Res_20	I	-41	0	0	0	-85	0
+Res_21	T	-55	0	0	0	-89	0
+Res_22	I	-52	0	0	0	-77	0
+Res_23	L	-45	0	0	0	-53	0
+Res_24	G	-55	0	0	0	-23	0
+Res_25	V	-50	0	0	0	1	1
+Res_26	S	-22	0	0	0	6	1
+Res_27	G	-16	0	0	0	11	1
+Res_28	Q	-15	0	0	0	14	1
+Res_29	Q	-17	0	0	0	21	1
+Res_30	V	-12	0	0	0	29	1
+Res_31	R	-25	0	0	0	28	1
+Res_32	I	-25	0	0	0	18	1
+Res_33	G	1	1	0	0	12	1
+Res_34	I	13	1	0	0	8	1
+Res_35	N	25	1	0	0	5	1
+Res_36	A	33	1	0	0	5	1
+Res_37	P	46	1	0	0	11	1
+Res_38	K	42	1	0	0	8	1
+Res_39	D	47	1	0	0	4	1
+Res_40	V	54	1	0	0	9	1
+Res_41	A	60	1	0	0	17	1
+Res_42	V	62	1	0	0	20	1
+Res_43	H	63	1	0	0	15	1
+Res_44	R	51	1	0	0	18	1
+Res_45	E	49	1	0	0	13	1
+Res_46	E	49	1	0	0	5	1
+Res_47	I	41	1	0	0	1	1
+Res_48	Y	34	1	0	0	-10	0
+Res_49	Q	36	1	0	0	-37	0
+Res_50	R	31	1	0	0	-60	0
+Res_51	I	6	1	0	0	-82	0
+Res_52	Q	-8	0	0	0	-82	0
+Res_53	A	-12	0	0	0	-97	0
+Res_54	G	-30	0	0	0	-97	0
+Res_55	L	-50	0	0	0	-98	0
+Res_56	T	-55	0	0	0	-98	0
+Res_57	A	-67	0	0	0	-98	0
+Res_58	P	-89	0	0	0	-99	0
+Res_59	D	-82	0	0	0	-99	0
+Res_60	K	-86	0	0	0	-99	0
+Res_61	R	-84	0	0	0	-98	0
+Res_62	E	-79	0	0	0	-98	0
+Res_63	T	-74	0	0	0	-99	0
+Res_64	P	-86	0	0	0	-100	0

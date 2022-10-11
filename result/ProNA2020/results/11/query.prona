@@ -1,0 +1,117 @@
+#Protein level prediction
+#RI = Reliability index (score) for positive prediciton (-100~+100); Pred = Prediction (0,1)
+#	Protein_RI	Protein_Pred	DNA_RI	DNA_Pred	RNA_RI	RNA_Pred
+Protein_level	94	1	-100	0	-100	0
+
+
+
+
+#Residue level prediction
+#RI = Reliability index (score) for positive prediciton (-100~+100); Pred = Prediction (0,1)
+#	AA	Protein_RI	Protein_Pred	DNA_RI	DNA_Pred	RNA_RI	RNA_Pred
+Res_1	M	-76	0	0	0	0	0
+Res_2	P	-44	0	0	0	0	0
+Res_3	S	-37	0	0	0	0	0
+Res_4	K	-19	0	0	0	0	0
+Res_5	L	1	1	0	0	0	0
+Res_6	A	21	1	0	0	0	0
+Res_7	L	16	1	0	0	0	0
+Res_8	I	30	1	0	0	0	0
+Res_9	Q	45	1	0	0	0	0
+Res_10	E	58	1	0	0	0	0
+Res_11	L	35	1	0	0	0	0
+Res_12	P	44	1	0	0	0	0
+Res_13	D	40	1	0	0	0	0
+Res_14	R	31	1	0	0	0	0
+Res_15	I	11	1	0	0	0	0
+Res_16	Q	31	1	0	0	0	0
+Res_17	T	23	1	0	0	0	0
+Res_18	A	10	1	0	0	0	0
+Res_19	V	2	1	0	0	0	0
+Res_20	E	18	1	0	0	0	0
+Res_21	A	19	1	0	0	0	0
+Res_22	A	17	1	0	0	0	0
+Res_23	M	32	1	0	0	0	0
+Res_24	G	48	1	0	0	0	0
+Res_25	M	55	1	0	0	0	0
+Res_26	S	57	1	0	0	0	0
+Res_27	Y	64	1	0	0	0	0
+Res_28	Q	62	1	0	0	0	0
+Res_29	D	56	1	0	0	0	0
+Res_30	A	51	1	0	0	0	0
+Res_31	P	46	1	0	0	0	0
+Res_32	N	45	1	0	0	0	0
+Res_33	N	50	1	0	0	0	0
+Res_34	V	53	1	0	0	0	0
+Res_35	R	59	1	0	0	0	0
+Res_36	R	64	1	0	0	0	0
+Res_37	D	69	1	0	0	0	0
+Res_38	L	63	1	0	0	0	0
+Res_39	D	68	1	0	0	0	0
+Res_40	N	61	1	0	0	0	0
+Res_41	L	57	1	0	0	0	0
+Res_42	H	54	1	0	0	0	0
+Res_43	A	58	1	0	0	0	0
+Res_44	C	46	1	0	0	0	0
+Res_45	L	40	1	0	0	0	0
+Res_46	N	28	1	0	0	0	0
+Res_47	K	27	1	0	0	0	0
+Res_48	A	22	1	0	0	0	0
+Res_49	K	27	1	0	0	0	0
+Res_50	L	36	1	0	0	0	0
+Res_51	T	49	1	0	0	0	0
+Res_52	V	48	1	0	0	0	0
+Res_53	S	51	1	0	0	0	0
+Res_54	R	55	1	0	0	0	0
+Res_55	M	53	1	0	0	0	0
+Res_56	V	47	1	0	0	0	0
+Res_57	T	52	1	0	0	0	0
+Res_58	S	56	1	0	0	0	0
+Res_59	L	54	1	0	0	0	0
+Res_60	L	53	1	0	0	0	0
+Res_61	E	55	1	0	0	0	0
+Res_62	K	50	1	0	0	0	0
+Res_63	P	37	1	0	0	0	0
+Res_64	S	22	1	0	0	0	0
+Res_65	V	20	1	0	0	0	0
+Res_66	V	17	1	0	0	0	0
+Res_67	A	14	1	0	0	0	0
+Res_68	Y	25	1	0	0	0	0
+Res_69	L	38	1	0	0	0	0
+Res_70	E	36	1	0	0	0	0
+Res_71	G	30	1	0	0	0	0
+Res_72	K	17	1	0	0	0	0
+Res_73	A	12	1	0	0	0	0
+Res_74	P	3	1	0	0	0	0
+Res_75	E	3	1	0	0	0	0
+Res_76	E	18	1	0	0	0	0
+Res_77	A	28	1	0	0	0	0
+Res_78	K	27	1	0	0	0	0
+Res_79	P	38	1	0	0	0	0
+Res_80	T	45	1	0	0	0	0
+Res_81	L	33	1	0	0	0	0
+Res_82	E	43	1	0	0	0	0
+Res_83	E	46	1	0	0	0	0
+Res_84	R	46	1	0	0	0	0
+Res_85	L	47	1	0	0	0	0
+Res_86	R	58	1	0	0	0	0
+Res_87	K	54	1	0	0	0	0
+Res_88	L	52	1	0	0	0	0
+Res_89	E	53	1	0	0	0	0
+Res_90	L	45	1	0	0	0	0
+Res_91	S	35	1	0	0	0	0
+Res_92	H	34	1	0	0	0	0
+Res_93	S	32	1	0	0	0	0
+Res_94	L	18	1	0	0	0	0
+Res_95	P	9	1	0	0	0	0
+Res_96	T	-8	0	0	0	0	0
+Res_97	T	-30	0	0	0	0	0
+Res_98	G	-56	0	0	0	0	0
+Res_99	S	-67	0	0	0	0	0
+Res_100	D	-74	0	0	0	0	0
+Res_101	P	-66	0	0	0	0	0
+Res_102	P	-67	0	0	0	0	0
+Res_103	P	-37	0	0	0	0	0
+Res_104	A	-35	0	0	0	0	0
+Res_105	K	-30	0	0	0	0	0
+Res_106	L	-28	0	0	0	0	0
