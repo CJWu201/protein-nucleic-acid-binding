@@ -1,19 +1,19 @@
 # Introduction
 
-	We collected data on protein-nucleic acid interactions from BioLip, Uniprot and PDB databases, and finally generated the test dataset for this experiment by cleaning, clustering and redundancy. This dataset contains 223 protein-nucleic acids interaction proteins, with a total of 67805 residues, including 60 proteins interacting with DNA, containing 1341 interaction residues, and 135 proteins interacting with RNA, containing 4401 interaction residues.  
+    We collected data on protein-nucleic acid interactions from BioLip, Uniprot and PDB databases, and finally generated the test dataset for this experiment by cleaning, clustering and redundancy. This dataset contains 223 protein-nucleic acids interaction proteins, with a total of 67805 residues, including 60 proteins interacting with DNA, containing 1341 interaction residues, and 135 proteins interacting with RNA, containing 4401 interaction residues.  
     We use this test dataset on some protein-nucleic acid interaction site prediction tool, and their results are detailed in the results folder.
 
 # Dataset
 
-	We collect proteins, which were solved structurally in complex from the BioLiP database in October 2015. It annotates a given residue as binding if the distance between an atom of this residue and an atom of the ligand <0.5 + sum of the Van der Waal’s radii of the two atoms . BioLip includes 5913 DNA-binding and 20 731 RNA-binding, some of which are redundant. In contrast to the other studies that typically consider one complex per protein and which may cover a fragment of the complete protein sequence, we use complete proteins that combine annotations from potentially multiple complexes. We map BioLiP sequences into UniProt with SIFTS to ensure that we work with complete protein sequences and to transfer annotations from multiple BioLiP/PDB protein chains that are linked to the same UniProt protein. Next, we remove UniProt IDs that correspond to protein fragments and combine annotations of binding residues from all PDB structures that are mapped to the same protein (UniProt ID). This way we annotate 27% more binding residues when compared with the best case scenario of how prior works annotate binding residues, i.e. when chains with the highest number of binding residues are used to cover the complete protein sequence. This enrichment is accomplished by transferring binding residues from BioLiP/PDB chains that cover the same fragment of the UniProt sequence.
-
-	The final data set includes 1857 proteins (817 DNA-binding, 1040 RNA-binding). 
+    We collect proteins, which were solved structurally in complex from the BioLiP database in October 2015. It annotates a given residue as binding if the distance between an atom of this residue and an atom of the ligand <0.5 + sum of the Van der Waal’s radii of the two atoms . BioLip includes 5913 DNA-binding and 20 731 RNA-binding, some of which are redundant. In contrast to the other studies that typically consider one complex per protein and which may cover a fragment of the complete protein sequence, we use complete proteins that combine annotations from potentially multiple complexes. We map BioLiP sequences into UniProt with SIFTS to ensure that we work with complete protein sequences and to transfer annotations from multiple BioLiP/PDB protein chains that are linked to the same UniProt protein. Next, we remove UniProt IDs that correspond to protein fragments and combine annotations of binding residues from all PDB structures that are mapped to the same protein (UniProt ID). This way we annotate 27% more binding residues when compared with the best case scenario of how prior works annotate binding residues, i.e. when chains with the highest number of binding residues are used to cover the complete protein sequence. This enrichment is accomplished by transferring binding residues from BioLiP/PDB chains that cover the same fragment of the UniProt sequence.
+	
+    The final data set includes 1857 proteins (817 DNA-binding, 1040 RNA-binding). 
 
 |dataset|proteins|residues|-DNA|-RNA|-DNA residus|-RNA residues|
 | :-------: | :--------: | :--------: | :----: | :----: | :------------: | :-------------: |
 |all|1857|423695|817|1040|19987|38899|
 
-	Divide the test set.
+    Divide the test set.
 
 |dataset|proteins|residues|-DNA|-RNA|-DNA residus|-RNA residues|
 | :-------: | :--------: | :--------: | :----: | :----: | :------------: | :-------------: |
@@ -23,7 +23,7 @@
 
 ## DNA
 
-	Results about BindN+, DRNApred, ProNA2020, NCBRPred, DNAgenie using our test dataset.
+    Results about BindN+, DRNApred, ProNA2020, NCBRPred, DNAgenie using our test dataset.
 
 |method|AUC|AUPR|AUCPC|AUOPC|
 | -----------| -------| -------| -------| -------|
@@ -33,7 +33,7 @@
 |NCBRPred|0.822|0.182|0.238|0.173|
 |DNAgenie|0.744|0.046|0.560|0.235|
 
-	Indicators based on binary forecasts
+    Indicators based on binary forecasts
 
 |method|F_max|MCC|PRE|REC|FPR|OPR|CPR|REC/FPR|REC/OPR|REC/CPR|
 | -----------| -------| -------| ---------| -------| -------| -------| -------| ---------| ---------| ---------|
@@ -45,7 +45,7 @@
 
 ## RNA
 
-	Results about Pprint, BindN+, DRNApred, ProNA2020, NCBRPred using our test dataset
+    Results about Pprint, BindN+, DRNApred, ProNA2020, NCBRPred using our test dataset
 
 |method|AUC|AUPR|AUCPC|AUOPC|
 | -----------| -------| -------| -------| -------|
@@ -55,7 +55,7 @@
 |ProNA2020|0.750|0.377|0.356|0.247|
 |NCBRPred|0.775|0.371|0.239|0.225|
 
-	Indicators based on binary forecasts
+    Indicators based on binary forecasts
 
 |method|F_max|MCC|PRE|REC|FPR|OPR|CPR|REC/FPR|REC/OPR|REC/CPR|
 | -----------| -----------------| -----------------| -----------------| -----------------| -----------------| -----------------| -----------------| ------------------| ------------------| ------------------|
